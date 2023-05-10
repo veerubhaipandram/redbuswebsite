@@ -1,0 +1,42 @@
+body
+{
+	background-image: url(photos/bsd.jfif);
+}
+form
+{
+	border: 0px solid black;
+	width: 350px;
+	height: 390px;
+	padding: 40px;
+	float: right;
+	margin-top: 100px;
+	margin-right: 100px;
+	background-color: white;
+	border-radius: 30px;
+}
+h1
+{
+	font-size: 30px;
+	color: red;
+	text-shadow: 2px 3px  blue;
+	margin-right: 20px;
+	margin-left: 20px;
+}
+input
+{
+	width: 300px;
+	margin-left: 30px;
+	border-radius: 30px;
+	font-size: 20px;
+}
+button
+{
+  background-color: red;
+  width: 300px;
+  margin-left: 30px;
+  font-size: 20px;
+  border-radius: 20px;
+}
+
+
+
